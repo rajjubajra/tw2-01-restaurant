@@ -1,0 +1,158 @@
+{
+  "MainNav": [
+    {
+      "id": "01",
+      "name": "Home",
+      "link": "/"
+    },
+    {
+      "id": "02",
+      "name": "Menu",
+      "link": "/food-menu"
+    },
+    {
+      "id": "03",
+      "name": "Table Booking",
+      "link": "/table-booking"
+    },
+    {
+      "id": "04",
+      "name": "About",
+      "link": "/about"
+    },
+    {
+      "id": "05",
+      "name": "Gallery",
+      "link": "/gallery"
+    },
+    {
+      "id": "06",
+      "name": "Location",
+      "link": "/location"
+    }
+  ],
+  "foodMenu": [
+    {
+      "dishTitle": "Appetisers",
+      "dishBrief" : "All starters are served with Salad & Mint Sauce",
+      "dishesTypes":[
+        {
+          "id":"01",
+          "title": "Tikka Starter",
+          "menuBrief": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Maxime mollitia, molestiae quas vel sint commodi repudiandae consequunt voluptat laborum numquam blanditiis harum",
+          "rate": "2.70"
+        },
+        {
+          "id":"02",
+          "title": "Tandori Starter",
+          "menuBrief": "Yhk ipsum dolor sit amet consectetur adipisicing elit.Maxime mollitia, molestiae quas vel sint commodi repudiandae consequunt voluptat laborum numquam blanditiis harum",
+          "rate": "2.30"
+        },
+        {
+          "id":"03",
+          "title": "Aloo Starter",
+          "menuBrief": "Dolor sit amet consectetur adipisicing elit.Maxime mollitia, molestiae quas vel sint commodi repudiandae consequunt voluptat laborum numquam blanditiis harum",
+          "rate": "1.30"
+        },
+        {
+          "id":"04",
+          "title": "Gobhi Starter",
+          "menuBrief": "Sit jambi amet consectetur adipisicing elit.Maxime mollitia, molestiae quas vel sint commodi repudiandae consequunt voluptat laborum numquam blanditiis harum",
+          "rate": "1.30"
+        },
+        {
+          "id":"05",
+          "title": "Pakoda Starter",
+          "menuBrief": "Consectetur adipisicing elit.Maxime mollitia, molestiae quas vel sint commodi repudiandae consequunt voluptat laborum numquam blanditiis harum",
+          "rate": "1.60"
+        },
+        {
+          "id":"06",
+          "title": "Tama Starter",
+          "menuBrief": "Adipisicing xonsectetur elit.Maxime mollitia, molestiae quas vel sint commodi repudiandae consequunt voluptat laborum numquam blanditiis harum",
+          "rate": "2.60"
+        },
+        {
+          "id":"07",
+          "title": "Pyiaj Starter",
+          "menuBrief": "Tipisicing xonsectetur elit.Maxime mollitia, molestiae quas vel sint commodi repudiandae consequunt voluptat laborum numquam blanditiis harum",
+          "rate": "1.60"
+        },
+        {
+          "id":"08",
+          "title": "Soup Starter",
+          "menuBrief": "Osicing xonsectetur elit.Maxime mollitia, molestiae quas vel sint commodi repudiandae consequunt voluptat laborum numquam blanditiis harum",
+          "rate": "2.00"
+        }
+      ]
+    },
+    {
+      "dishTitle": "2 Course Set Menu",
+      "dishBrief" : "Ipsum dolor sit amet consectetur adipisicing elit",
+      "dishesTypes":[
+        {
+          "id":"01",
+          "title": "Potato Skins",
+          "menuBrief": "Lorem ipsum dolor sit amet consectetur adipisicing elit.Maxime mollitia, molestiae quas vel sint commodi repudiandae consequunt voluptat laborum numquam blanditiis harum",
+          "rate": "2.95"
+        },
+        {
+          "id":"02",
+          "title": "Mozarella Sticks",
+          "menuBrief": "Tem ipsum dolor sit amet consectetur adipisicing elit.Maxime mollitia, molestiae quas vel sint commodi repudiandae consequunt voluptat laborum numquam blanditiis harum",
+          "rate": "3.90"
+        },
+        {
+          "id":"03",
+          "title": "Caesar Salad",
+          "menuBrief": "Tpsum sit amet consectetur adipisicing elit.Maxime mollitia, molestiae quas vel sint commodi repudiandae consequunt voluptat laborum numquam blanditiis harum",
+          "rate": "2.00"
+        },
+        {
+          "id":"04",
+          "title": "Garlic Bread",
+          "menuBrief": "Yamet consectetur adipisicing elit.Maxime mollitia, molestiae quas vel sint commodi Tpsum sit repudiandae consequunt voluptat laborum numquam blanditiis harum",
+          "rate": "2.10"
+        },
+        {
+          "id":"05",
+          "title": "Garlic Bread with Cheeese",
+          "menuBrief": "Consectetur adipisicing elit.Maxime mollitia, molestiae quas vel sint commodi Tpsum sit repudiandae consequunt voluptat laborum numquam blanditiis harum",
+          "rate": "2.30"
+        },
+        {
+          "id":"06",
+          "title": "Garlic Bread with Tomato",
+          "menuBrief": "Nsectetur adipisicing elit.Maxime mollitia, molestiae quas vel sint commodi Tpsum sit repudiandae consequunt voluptat laborum numquam blanditiis harum",
+          "rate": "3.30"
+        },
+        {
+          "id":"07",
+          "title": "Garlic Mushroom",
+          "menuBrief": "Wectetur adipisicing elit.Maxime mollitia, molestiae quas vel sint commodi Tpsum sit repudiandae consequunt voluptat laborum numquam blanditiis harum",
+          "rate": "1.37"
+        }
+      ]
+    }
+  ],
+  "homeBottom": [
+    {
+      "id": "01",
+      "image": "./data/images/garlic-3617113_640.jpg",
+      "title": "Dolor sit amet",
+      "body": "<p>Dolor sit amet consectetur adipisicing elit.Amet quidem officia quam, harum consequatur vel dolor quia sunt nesciunt, temporibus molestiae suscipit placeat enim voluptatum blanditiis laborum voluptate ea aperiam.</p><br/><p>Praesentium, quia enim sunt laborum hic a exercitationem eum temporibus quaerat facere veritatis sequi voluptatem placeat architecto magnam accusantium cupiditate corporis!</p>"
+    },
+    {
+      "id": "01",
+      "image": "./data/images/garlic-3617113_640.jpg",
+      "title": "Lorem ipsum",
+      "body": "<p>Lorem ipsum, dolor sit amet consectetur adipisicing elit. Quas modi excepturi necessitatibus, soluta reiciendis non dolorum exercitationem distinctio maxime voluptas veniam nihil qui nesciunt omnis ipsa voluptates alias dicta quis!</p><br/><p>Dignissimos praesentium, quia enim sunt laborum hic a exercitationem eum temporibus quaerat facere veritatis sequi voluptatem placeat architecto magnam accusantium cupiditate corporis!</p>"
+    },
+    {
+      "id": "01",
+      "image": "./data/images/garlic-3617113_640.jpg",
+      "title": "Adipisicing elit",
+      "body": "<p>Adipisicing elit. Dignissimos praesentium, quia enim sunt laborum hic a exercitationem eum temporibus quaerat facere veritatis sequi voluptatem placeat architecto magnam accusantium cupiditate corporis!</p><br/><p>Cupiditate corporis adipisicing elit. Dignissimos praesentium, quia enim sunt laborum hic a exercitationem eum temporibus quaerat facere veritatis sequi voluptatem placeat architecto magnam accusantium cupiditate corporis!</p>"
+    }
+  ]
+}
