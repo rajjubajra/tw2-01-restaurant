@@ -4,20 +4,25 @@ import Logo from './Logo';
 import MainMenu from "./MainMenu";
 import MenuIcon from './MenuIcon';
 import SearchIcon from './SearchIcon';
+import {useSelector} from 'react-redux';
 
 
 
 function MenuBar() {
 
+  //const [menudata, setMenuData] = useState([]);
   const [mobileMenu, setMobileMenu] = useState(false);
 
+  /** SHOW OR HIDE MOBILE MENU */
   function showHideNav(){
     return mobileMenu ? setMobileMenu(false) : setMobileMenu(true);
   }
 
+  const menudata = useSelector(state => state.reducerMainNav.nav_data);
+
   return (
     <>
-{/** ROW - 1 */}
+  {/** ROW - 1 */}
       <div className="flex bg-gray-900 text-gray-100">
         {/** MENU ICON */}
         <div className="flex flex-col w-28 md:w-full md:order-2">
@@ -32,7 +37,7 @@ function MenuBar() {
               </div>
             </div>
             <div className="hidden md:block md:py-5">
-            <MainMenu />
+            <MainMenu data={menudata ? menudata : []} />
             </div>
         </div>
         {/** BRAND LOGO */}
@@ -46,7 +51,7 @@ function MenuBar() {
       </div>   
 {/** ROW-2 */}  
       <div className={`${mobileMenu ? 'flex py-5 md:hidden' : 'hidden'}`}>
-          <MainMenu showHideNav={showHideNav} />
+          <MainMenu showHideNav={showHideNav} data={menudata ? menudata : []} />
       </div> 
     </>
   )

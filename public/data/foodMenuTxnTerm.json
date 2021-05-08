@@ -1,0 +1,12 @@
+[
+  {
+    "name": "Appetiser",
+    "tid": "1",
+    "description__value": "<p>All starters are served with Salad &amp; Mint Sauce</p>"
+  },
+  {
+    "name": "2 Course Set Menu",
+    "tid": "2",
+    "description__value": "<p>Ipsum dolor sit amet consectetur adipisicing elit</p>"
+  }
+]

@@ -1,0 +1,109 @@
+[
+  {
+    "key": "standard.front_page",
+    "title": "Home",
+    "description": "",
+    "uri": "",
+    "alias": "",
+    "external": false,
+    "absolute": "https://rdbajra.com/d9-restaurant/",
+    "relative": "/d9-restaurant/",
+    "existing": true,
+    "weight": "0",
+    "expanded": false,
+    "enabled": true,
+    "uuid": null,
+    "options": [
+      
+    ]
+  },
+  {
+    "key": "bc2b889a-0672-4f92-a54e-4870d35f6ffe",
+    "title": "About",
+    "description": null,
+    "uri": "base:about",
+    "alias": null,
+    "external": false,
+    "absolute": "https://rdbajra.com/d9-restaurant/about",
+    "relative": "/d9-restaurant/about",
+    "existing": true,
+    "weight": "1",
+    "expanded": false,
+    "enabled": true,
+    "uuid": null,
+    "options": [
+      
+    ]
+  },
+  {
+    "key": "fa7f17c0-027e-4ff2-8f97-5c587132a88e",
+    "title": "Table Booking",
+    "description": null,
+    "uri": "base:table-booking",
+    "alias": null,
+    "external": false,
+    "absolute": "https://rdbajra.com/d9-restaurant/table-booking",
+    "relative": "/d9-restaurant/table-booking",
+    "existing": true,
+    "weight": "2",
+    "expanded": false,
+    "enabled": true,
+    "uuid": null,
+    "options": [
+      
+    ]
+  },
+  {
+    "key": "1fa7b9ef-b4ed-4adc-9764-4b8f2c9b0cc7",
+    "title": "Menu",
+    "description": null,
+    "uri": "base:menu",
+    "alias": null,
+    "external": false,
+    "absolute": "https://rdbajra.com/d9-restaurant/menu",
+    "relative": "/d9-restaurant/menu",
+    "existing": true,
+    "weight": "3",
+    "expanded": false,
+    "enabled": true,
+    "uuid": null,
+    "options": [
+      
+    ]
+  },
+  {
+    "key": "e3eeb6cf-543e-4428-955a-9ceb79b2592b",
+    "title": "Gallery",
+    "description": null,
+    "uri": "base:gallery",
+    "alias": null,
+    "external": false,
+    "absolute": "https://rdbajra.com/d9-restaurant/gallery",
+    "relative": "/d9-restaurant/gallery",
+    "existing": true,
+    "weight": "4",
+    "expanded": false,
+    "enabled": true,
+    "uuid": null,
+    "options": [
+      
+    ]
+  },
+  {
+    "key": "747e8a6f-3fd4-434c-b88f-3b41c21b4189",
+    "title": "Location",
+    "description": null,
+    "uri": "base:location",
+    "alias": null,
+    "external": false,
+    "absolute": "https://rdbajra.com/d9-restaurant/location",
+    "relative": "/d9-restaurant/location",
+    "existing": true,
+    "weight": "6",
+    "expanded": false,
+    "enabled": true,
+    "uuid": null,
+    "options": [
+    ]
+  }
+]
